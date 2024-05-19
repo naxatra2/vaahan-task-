@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Nakku2813",
+    "database": "cms_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
+

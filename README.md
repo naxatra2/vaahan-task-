@@ -1,8 +1,27 @@
-# Getting Started with Create React App
+## Vaahan Intern Task
+# Overview
+The Vaahan Project is a rudimentary headless CMS with basic CRUD functionality built with a Node.js backend and a React.js frontend. This project allows users to create dynamic entities, manage their attributes, and perform CRUD operations on the records of these entities. It demonstrates the integration of a frontend built with React.js and a backend built with Express.js and Sequelize, interfacing with a MySQL database.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Features
+Dynamic Entity Creation
+CRUD Operations
+Responsive Design
+
+# Technologies Used
+Frontend: React.js, Tailwind CSS, Axios
+Backend: Node.js, Express.js, Sequelize ORM, MySQL
+
+# Prerequisites
+Node.js (v14.x or later)
+npm (v6.x or later)
+MySQL (v8.x or later)
+
 
 ## Available Scripts
+Prerequisites
+Node.js (v14.x or later)
+npm (v6.x or later)
+MySQL (v8.x or later)
 
 In the project directory, you can run:
 

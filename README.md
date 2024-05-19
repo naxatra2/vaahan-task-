@@ -2,6 +2,10 @@
 # Overview
 The Vaahan Project is a rudimentary headless CMS with basic CRUD functionality built with a Node.js backend and a React.js frontend. This project allows users to create dynamic entities, manage their attributes, and perform CRUD operations on the records of these entities. It demonstrates the integration of a frontend built with React.js and a backend built with Express.js and Sequelize, interfacing with a MySQL database.
 
+# Challenges Faced. 
+This project lacks a proper integration between the frontend and the backend, but both of them work seperately. 
+here is a link to a proper working frontend developed by me: [Frontend](https://github.com/naxatra2/Vaahan-Project)
+
 # Features
 Dynamic Entity Creation
 CRUD Operations
